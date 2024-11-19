@@ -6,3 +6,7 @@ vara <- 2
 varb <-3
 varc <- vara + varb
 varc
+
+
+vard <- varc / varb
+vard
